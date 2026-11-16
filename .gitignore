@@ -1,0 +1,23 @@
+# Frontend
+Frontend/node_modules/
+Frontend/dist/
+Frontend/.angular/
+
+# Backend
+**/bin/
+**/obj/
+**/.vs/
+*.csproj.user
+
+# Local development settings
+**/appsettings.Development.json
+
+# Secrets
+.env
+.env.*
+!.env.example
+**/secrets.json
+
+# OS files
+Thumbs.db
+.DS_Store
